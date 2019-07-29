@@ -6,7 +6,7 @@ MiniC 소스코드(*.mc) 파일을 입력으로 받아 Token을 지정된 형식
   
   
  
-## <인식할 수 있는 Token>  
+### <인식할 수 있는 Token>  
 
 #### * 연산자 (Operator)    
   <pre>
@@ -38,7 +38,7 @@ MiniC 소스코드(*.mc) 파일을 입력으로 받아 Token을 지정된 형식
 
 
   
-## <인식할 수 있는 주석 (Comment)>    
+### <인식할 수 있는 주석 (Comment)>    
 <pre>
   * Single – line Comment : //  
   * Multi – line Comment : /*~*/  
@@ -47,14 +47,14 @@ MiniC 소스코드(*.mc) 파일을 입력으로 받아 Token을 지정된 형식
   
   
   
-## <인식할 수 있는 literal>  
+### <인식할 수 있는 literal>  
 <pre>
   * Integer literal  / Character literal / String literal / Double literal
 </pre>  
    
 
 
-## <token 출력 형식>  
+### <token 출력 형식>  
 <pre>
   * Token -> token ( token number, token value, file name, line number, column number )  
   * Documented Comments ->  comment contents

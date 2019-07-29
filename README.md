@@ -56,3 +56,6 @@ MiniC 소스코드(*.mc) 파일을 입력으로 받아 Token을 지정된 형식
   * Token -> token ( token number, token value, file name, line number, column number )  
   * Documented Comments ->  comment contents
 </pre>  
+<br><br><br>
+### <실행화면>
+![image](https://user-images.githubusercontent.com/48276522/62027209-1141e080-b218-11e9-965d-3cd59f640ddb.png)  
